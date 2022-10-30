@@ -2,6 +2,7 @@
 // console.log('Number of categories:', categoriesList.children.length);
 
 
+
 const allCategories = document.querySelectorAll('.item');
  
 console.log('Number of categories:', allCategories.length);
